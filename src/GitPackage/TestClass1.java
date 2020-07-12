@@ -8,6 +8,7 @@ public class TestClass1 {
 	{
 		System.out.println("A");
 		
+		
 	}
 
 }
