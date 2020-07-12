@@ -3,10 +3,10 @@ package GitPackage;
 import org.testng.annotations.Test;
 
 public class TestClass3 {
-	
-	public static void main(String args[])
+	@Test
+	public void test3()
 	{
-		System.out.println("B");
+		System.out.println("C");
 	}
 
 }
