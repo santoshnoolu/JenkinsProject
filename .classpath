@@ -37,5 +37,10 @@
 	<classpathentry kind="lib" path="E:/AutomationTestingSoftwares/selenium-java-3.0.1/lib/xercesImpl-2.11.0.jar"/>
 	<classpathentry kind="lib" path="E:/AutomationTestingSoftwares/selenium-java-3.0.1/lib/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="lib" path="E:/AutomationTestingSoftwares/selenium-java-3.0.1/client-combined-3.0.1-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chinnu/workspace/TestNGProject/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chinnu/workspace/TestNGProject/lib/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chinnu/workspace/TestNGProject/lib/jcommander-1.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chinnu/workspace/TestNGProject/lib/snakeyaml-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chinnu/workspace/TestNGProject/lib/testng-6.8.5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
