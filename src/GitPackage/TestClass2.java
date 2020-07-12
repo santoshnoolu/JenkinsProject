@@ -11,6 +11,7 @@ public class TestClass2 {
 		System.out.println("B3");
 
 		System.out.println("B4");
+		System.out.println("Hello");
 	}
 
 }
